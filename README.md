@@ -22,10 +22,3 @@ Todos os programas foram implementados em linguagem **C**.
 | Lista 10 — Parte 2 | Árvores Binárias |
 
 ---
-
-## 🛠️ Como Compilar
-
-```bash
-gcc -o programa arquivo.c
-./programa
-```
